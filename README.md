@@ -1,6 +1,4 @@
-# Minimal Theme
-
-[Demo the Theme](https://orderedlist.com/minimal/)
+# This repository uses the Minimal Theme
 
 This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
 
